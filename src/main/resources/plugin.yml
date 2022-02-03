@@ -1,0 +1,6 @@
+name: VoidGen
+version: ${version}
+author: dmkng
+main: io.github.dmkng.VoidGen.Main
+load: STARTUP
+api-version: 1.13
